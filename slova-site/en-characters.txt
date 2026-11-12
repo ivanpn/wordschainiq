@@ -1,0 +1,305 @@
+Harry Potter
+Hermione Granger|Hermione
+Ron Weasley
+Albus Dumbledore|Dumbledore
+Lord Voldemort|Voldemort
+Rubeus Hagrid|Hagrid
+Severus Snape|Snape
+Dobby
+Draco Malfoy|Malfoy
+Frodo Baggins|Frodo
+Bilbo Baggins|Bilbo
+Gandalf
+Aragorn
+Legolas
+Gimli
+Gollum
+Sauron
+Samwise Gamgee|Samwise
+Sherlock Holmes|Sherlock
+Doctor Watson|Dr Watson|Watson
+Professor Moriarty|Moriarty
+Hercule Poirot|Poirot
+Miss Marple
+Robinson Crusoe
+Gulliver
+Don Quixote
+Sancho Panza
+Hamlet
+Ophelia
+Othello
+Desdemona
+Romeo
+Juliet
+Macbeth
+King Lear
+Falstaff
+Shylock
+Prospero
+Puck
+Faust
+Mephistopheles
+Quasimodo
+Esmeralda
+Jean Valjean
+Cosette
+D’Artagnan
+Athos
+Porthos
+Aramis
+Count of Monte Cristo|Monte Cristo|Edmond Dantes
+Tom Sawyer
+Huckleberry Finn|Huck Finn
+Oliver Twist
+Ebenezer Scrooge|Scrooge
+Tiny Tim
+Count Dracula|Dracula
+Frankenstein
+Tarzan
+Little Prince
+Captain Nemo
+Phileas Fogg
+Captain Ahab|Ahab
+Moby Dick
+Long John Silver
+Jim Hawkins
+Dr Jekyll|Jekyll
+Mr Hyde|Hyde
+Zorro
+Robin Hood
+Maid Marian
+Friar Tuck
+King Arthur
+Merlin
+Lancelot
+Guinevere
+Hercules|Heracles
+Odysseus|Ulysses
+Achilles
+Perseus
+Medusa
+Prometheus
+Zeus
+Athena
+Apollo
+Poseidon
+Hades
+Hermes
+Aphrodite
+Thor
+Loki
+Odin
+Beowulf
+Batman
+Superman
+Spider-Man|Spiderman
+Iron Man
+Captain America
+Hulk
+Wonder Woman
+Joker
+Wolverine
+Deadpool
+Black Panther
+Doctor Strange
+Thanos
+Catwoman
+Harley Quinn
+Lex Luthor
+Magneto
+Aquaman
+Groot
+Venom
+Mickey Mouse
+Minnie Mouse
+Donald Duck
+Goofy
+Pluto
+Scrooge McDuck
+Simba
+Mufasa
+Scar
+Timon
+Pumbaa
+Nemo
+Dory
+Shrek
+Princess Fiona|Fiona
+Puss in Boots
+Woody
+Buzz Lightyear
+WALL-E
+Rapunzel
+Elsa
+Olaf
+Moana
+Mulan
+Aladdin
+Jasmine
+Genie
+Ariel
+Belle
+Cinderella
+Snow White
+Sleeping Beauty
+Little Red Riding Hood|Red Riding Hood
+Goldilocks
+Rumpelstiltskin
+Hansel
+Gretel
+Pinocchio
+Geppetto
+Peter Pan
+Wendy
+Captain Hook
+Tinker Bell|Tinkerbell
+Alice
+Mad Hatter
+Cheshire Cat
+March Hare
+White Rabbit
+Queen of Hearts
+Humpty Dumpty
+Mary Poppins
+Pippi Longstocking|Pippi
+Winnie-the-Pooh|Pooh
+Piglet
+Eeyore
+Tigger
+Kanga
+Christopher Robin
+Peter Rabbit
+Paddington Bear|Paddington
+Mowgli
+Baloo
+Bagheera
+Shere Khan
+Kaa
+Dorothy
+Toto
+Tin Man
+Scarecrow
+Cowardly Lion
+Wicked Witch
+Willy Wonka
+Charlie Bucket
+Matilda
+Gruffalo
+Grinch
+Cat in the Hat
+Scooby-Doo
+Shaggy
+Bugs Bunny
+Daffy Duck
+Tweety
+Sylvester
+Road Runner
+Wile E. Coyote
+Garfield
+Odie
+Snoopy
+Charlie Brown
+Popeye
+Olive Oyl
+Fred Flintstone
+Barney Rubble
+Yogi Bear
+Pink Panther
+Kermit the Frog|Kermit
+Miss Piggy
+Elmo
+Big Bird
+Cookie Monster
+Oscar the Grouch
+Thomas the Tank Engine
+Peppa Pig|Peppa
+Bob the Builder
+Postman Pat
+Fireman Sam
+Dora the Explorer|Dora
+Barbie
+Heidi
+Anne of Green Gables|Anne Shirley
+Jane Eyre
+Mr Rochester
+Elizabeth Bennet
+Mr Darcy|Darcy
+Heathcliff
+Atticus Finch
+Holden Caulfield
+Jay Gatsby|Gatsby
+Ishmael
+Arsene Lupin
+Tintin
+Captain Haddock
+Asterix
+Obelix
+Lucky Luke
+Papa Smurf
+Smurfette
+Gargamel
+Godzilla
+King Kong
+Optimus Prime
+Megatron
+Spock
+Captain Kirk
+Doctor Who
+Darth Vader
+Luke Skywalker
+Yoda
+Han Solo
+Chewbacca
+Princess Leia
+Obi-Wan Kenobi
+Neo
+Morpheus
+Trinity
+Terminator
+Rambo
+Rocky Balboa|Rocky
+James Bond
+Indiana Jones
+Forrest Gump
+Jack Sparrow|Captain Jack Sparrow
+Jon Snow
+Daenerys Targaryen|Daenerys
+Tyrion Lannister|Tyrion
+Arya Stark
+Katniss Everdeen|Katniss
+Percy Jackson
+Geralt of Rivia|Geralt
+Mario
+Luigi
+Princess Peach
+Bowser
+Yoshi
+Donkey Kong
+Link
+Zelda|Princess Zelda
+Pikachu
+Sonic
+Lara Croft
+Pac-Man|Pacman
+Kirby
+Master Chief
+Kratos
+Crash Bandicoot
+SpongeBob SquarePants|SpongeBob
+Patrick Star
+Squidward
+Bart Simpson
+Homer Simpson
+Lisa Simpson
+Marge Simpson
+Rick Sanchez
+Santa Claus|Santa
+Rudolph
+Jack Frost
+Ichabod Crane
+Rip Van Winkle
+Pocahontas
+Paul Bunyan
+Baba Yaga
+Koschei
+Cheburashka
